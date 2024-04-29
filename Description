@@ -1,3 +1,11 @@
-This is System Analysis and Design course work
-This repository contains the Software Requirement Specification (SRS) document developed by our team.
+This is System Analysis and Design coursework
+This repository contains the Software Requirement Specification (SRS) 
+document developed by our team.
+
+Requirements: Detailed description of functional and non-functional requirements gathered through stakeholder collaboration and analysis.
+Use Cases: Scenarios illustrating how users interact with the system to achieve their goals.
+System Architecture: High-level overview of the system architecture, including components, interfaces, and data flows.
+Assumptions and Constraints: Assumptions made during the requirements gathering process and constraints influencing the design and implementation of the system.
+
+
 
